@@ -1,2 +1,1 @@
-# repositorionumero1
-este proyecto es una prueba
+esto es solo una prueba
